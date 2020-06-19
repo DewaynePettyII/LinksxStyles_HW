@@ -1,1 +1,32 @@
-#
+.class-green{
+    color: green;
+}
+#id-h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+#id-h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
+#id-p{
+    color: yellow;
+}
+.class-bullet{
+    list-style-type: decimal;
+}
+.class-location{
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 150%;
+   text-align: justify;
+   color: #000;
+}
+.class-purple{
+    color: violet;
+}
+.class-blue{
+    color: rgba(77, 77, 236, 0.808);
+}
+.class-blk{
+   color: #000;
+}
