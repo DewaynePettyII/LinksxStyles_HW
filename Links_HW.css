@@ -9,8 +9,9 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: x-small;
 }
-#id-p{
+.class-p{
     color: yellow;
+    font-style: italic;
 }
 .class-bullet{
     list-style-type: decimal;
@@ -29,4 +30,7 @@
 }
 .class-blk{
    color: #000;
+}
+.class-wht{
+    background-color: aquamarine;
 }
